@@ -1,0 +1,114 @@
+[
+  {
+    "number": 1,
+    "date": "2025-09-01",
+    "lines": [
+      {
+        "account": "Cash",
+        "debit": "100",
+        "credit": "0"
+      },
+      {
+        "account": "Owner's capital",
+        "debit": "0",
+        "credit": "100"
+      }
+    ],
+    "description": "Initial investment"
+  },
+  {
+    "number": 2,
+    "date": "2025-09-02",
+    "lines": [
+      {
+        "account": "Cash",
+        "debit": "200",
+        "credit": "0"
+      },
+      {
+        "account": "Loans payable",
+        "debit": "0",
+        "credit": "200"
+      }
+    ],
+    "description": "Bank loan"
+  },
+  {
+    "number": 3,
+    "date": "2025-09-03",
+    "lines": [
+      {
+        "account": "Equipment",
+        "debit": "30",
+        "credit": "0"
+      },
+      {
+        "account": "Cash",
+        "debit": "0",
+        "credit": "30"
+      }
+    ],
+    "description": "Bought cleaning equipment"
+  },
+  {
+    "number": 4,
+    "date": "2025-09-04",
+    "lines": [
+      {
+        "account": "Supplies",
+        "debit": "50",
+        "credit": "0"
+      },
+      {
+        "account": "Accounts payable",
+        "debit": "0",
+        "credit": "50"
+      }
+    ],
+    "description": "Bought cleaning supplies"
+  },
+  {
+    "number": 5,
+    "date": "2025-09-05",
+    "lines": [
+      {
+        "account": "Cash",
+        "debit": "150",
+        "credit": "0"
+      },
+      {
+        "account": "Revenue",
+        "debit": "0",
+        "credit": "150"
+      },
+      {
+        "account": "Cost os services",
+        "debit": "25",
+        "credit": "0"
+      },
+      {
+        "account": "Supplies",
+        "debit": "0",
+        "credit": "25"
+      }
+    ],
+    "description": "Provided window cleaning service"
+  },
+  {
+    "number": 6,
+    "date": "2025-09-06",
+    "lines": [
+      {
+        "account": "Laundry costs",
+        "debit": "20",
+        "credit": "0"
+      },
+      {
+        "account": "Cash",
+        "debit": "0",
+        "credit": "20"
+      }
+    ],
+    "description": "Ordered laundry service"
+  }
+]

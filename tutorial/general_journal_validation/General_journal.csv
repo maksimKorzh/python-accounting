@@ -1,0 +1,33 @@
+Date,Account,Debit,Credit
+,,,
+J/E #1,,,
+Sep 1st,Cash,100,
+,    Owner's capital,,100
+,Initial investment,,
+,,,
+J/E #2,,,
+Sep 2nd,Cash,200,
+,    Loans payable,,200
+,Bank loan,,
+,,,
+J/E #3,,,
+Sep 3rd,Equipment,30,
+,    Cash,,30
+,Bought cleaning equipment,,
+,,,
+J/E #4,,,
+Sep 4th,Supplies,50,
+,    Accounts payable,,50
+,Bought cleaning supplies,,
+,,,
+J/E #5,,,
+Sep 5th,Cash,150,
+,    Revenue,,150
+,Cost os services,25,
+,    Supplies,,25
+,Provided window cleaning service,,
+,,,
+J/E #6,,,
+Sep 6th,Laundry costs,20,
+,    Cash,,20
+,Ordered laundry service,,
