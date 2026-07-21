@@ -1,0 +1,12 @@
+# List of accounts
+accounts = [
+    'Cash',
+    'Supplies',
+    'Equipment',
+    'Accounts payable',
+    'Loans payable',
+    'Owner\'s capital',
+    'Revenue',
+    'Cost os services',
+    'Laundry costs'
+]
